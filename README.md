@@ -58,10 +58,6 @@ For example, to add a new migration from the root folder:
 
  `dotnet ef migrations add "SampleMigration" --project src\Infrastructure --startup-project src\WebUI`
 
-## Support
-
-If you are having problems, please let us know by [raising a new issue](https://github.com/jasontaylordev/Template/issues/new/choose).
-
 ## License
 
 This project is licensed with the [MIT license](LICENSE).
