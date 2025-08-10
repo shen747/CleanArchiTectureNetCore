@@ -1,4 +1,4 @@
- <img align="left" width="116" height="116" src="https://raw.githubusercontent.com/jasontaylordev/Template/master/.github/icon.png" />
+
  
  # Clean Architecture Solution Template
 [![Clean.Architecture.Solution.Template NuGet Package](https://img.shields.io/badge/nuget-1.0.5-blue)](https://www.nuget.org/packages/Clean.Architecture.Solution.Template)
